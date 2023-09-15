@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;700&family=Montserrat:wght@100&display=swap");
+
+:root {
+  --bg-color: #252f3d;
+  --text-blue: #2c7ef8;
+  --text-gray: #4d5254;
+  --green: #59ae43;
+  --red: #f82c2c;
+}
+body {
+  margin: 0;
+  font-family: "Manrope", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
