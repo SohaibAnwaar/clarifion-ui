@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { device, size } from "../styles/Breakpoint";
+import { size } from "../styles/Breakpoint";
 import { SetStateAction, useEffect, useState } from "react";
 
 interface ChevronProps {

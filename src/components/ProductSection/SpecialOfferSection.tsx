@@ -1,5 +1,4 @@
 import { styled } from "styled-components";
-import { Image } from "../styles/common";
 
 const SpecialOfferSection = () => {
   return (
